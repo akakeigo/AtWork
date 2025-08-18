@@ -1,0 +1,227 @@
+{
+    "rel-amazon": {
+        "customer": [],
+        "review": [
+            "rating"
+        ],
+        "product": [
+            "price"
+        ]
+    },
+    "rel-avito": {
+        "AdsInfo": [
+            "Price"
+        ],
+        "SearchStream": [
+            "Position",
+            "HistCTR"
+        ],
+        "PhoneRequestsStream": [],
+        "VisitStream": [],
+        "UserInfo": [],
+        "Location": [],
+        "SearchInfo": [],
+        "Category": []
+    },
+    "rel-event": {
+        "user_friends": [],
+        "event_interest": [],
+        "events": [
+            "lat",
+            "lng",
+            "c_1",
+            "c_2",
+            "c_3",
+            "c_4",
+            "c_5",
+            "c_6",
+            "c_7",
+            "c_8",
+            "c_9",
+            "c_10",
+            "c_11",
+            "c_12",
+            "c_13",
+            "c_14",
+            "c_15",
+            "c_16",
+            "c_17",
+            "c_18",
+            "c_19",
+            "c_20",
+            "c_21",
+            "c_22",
+            "c_23",
+            "c_24",
+            "c_25",
+            "c_26",
+            "c_27",
+            "c_28",
+            "c_29",
+            "c_30",
+            "c_31",
+            "c_32",
+            "c_33",
+            "c_34",
+            "c_35",
+            "c_36",
+            "c_37",
+            "c_38",
+            "c_39",
+            "c_40",
+            "c_41",
+            "c_42",
+            "c_43",
+            "c_44",
+            "c_45",
+            "c_46",
+            "c_47",
+            "c_48",
+            "c_49",
+            "c_50",
+            "c_51",
+            "c_52",
+            "c_53",
+            "c_54",
+            "c_55",
+            "c_56",
+            "c_57",
+            "c_58",
+            "c_59",
+            "c_60",
+            "c_61",
+            "c_62",
+            "c_63",
+            "c_64",
+            "c_65",
+            "c_66",
+            "c_67",
+            "c_68",
+            "c_69",
+            "c_70",
+            "c_71",
+            "c_72",
+            "c_73",
+            "c_74",
+            "c_75",
+            "c_76",
+            "c_77",
+            "c_78",
+            "c_79",
+            "c_80",
+            "c_81",
+            "c_82",
+            "c_83",
+            "c_84",
+            "c_85",
+            "c_86",
+            "c_87",
+            "c_88",
+            "c_89",
+            "c_90",
+            "c_91",
+            "c_92",
+            "c_93",
+            "c_94",
+            "c_95",
+            "c_96",
+            "c_97",
+            "c_98",
+            "c_99",
+            "c_100"
+        ],
+        "event_attendees": [
+        ],
+        "users": []
+    },
+    "rel-f1": {
+        "standings": [
+            "points",
+            "position",
+            "wins"
+        ],
+        "qualifying": [
+            "position"
+        ],
+        "drivers": [],
+        "circuits": [
+            "lat",
+            "lng",
+            "alt"
+        ],
+        "constructor_standings": [
+            "points",
+            "position",
+            "wins"
+        ],
+        "constructor_results": [
+            "points"
+        ],
+        "races": [
+            "round"
+        ],
+        "constructors": [],
+        "results": [
+            "grid",
+            "positionOrder",
+            "points",
+            "laps"
+        ]
+    },
+    "rel-hm": {
+        "customer": [
+            "age"
+        ],
+        "article": [],
+        "transactions": [
+            "price"
+        ]
+    },
+    "rel-stack": {
+        "postLinks": [],
+        "badges": [
+            "Class"
+        ],
+        "comments": [],
+        "posts": [],
+        "postHistory": [],
+        "users": [],
+        "votes": []
+    },
+    "rel-trial": {
+        "outcomes": [],
+        "eligibilities": [],
+        "interventions_studies": [],
+        "interventions": [],
+        "facilities": [],
+        "conditions": [],
+        "designs": [],
+        "reported_event_totals": [
+            "subjects_affected",
+            "subjects_at_risk"
+        ],
+        "sponsors_studies": [],
+        "outcome_analyses": [
+            "param_value",
+            "dispersion_value",
+            "p_value",
+            "ci_percent",
+            "ci_lower_limit",
+            "ci_upper_limit",
+            "ci_upper_limit_raw",
+            "ci_lower_limit_raw",
+            "p_value_raw"
+        ],
+        "conditions_studies": [],
+        "drop_withdrawals": [
+            "count"
+        ],
+        "sponsors": [],
+        "studies": [
+            "enrollment",
+            "number_of_arms",
+            "number_of_groups"
+        ],
+        "facilities_studies": []
+    }
+}
